@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:notes_app/views/customs/custom_notes_ltem.dart';
 
 class ListViewBuilder extends StatelessWidget {
-  const ListViewBuilder({super.key});
+ const ListViewBuilder({super.key});
 
   @override
   Widget build(BuildContext context) {
